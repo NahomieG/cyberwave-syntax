@@ -5,7 +5,7 @@
   "description": "A cyberwave theme based off of oceanic next and the featured theme on the homepage for Atom IDE",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NahomieG/cyberwave-syntax.git"
+    "url": "https://github.com/NahomieG/cyberwave-syntax.git"
   },
   "keywords": [
     "atom",
