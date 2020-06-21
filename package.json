@@ -1,6 +1,6 @@
 {
   "name": "cyberwave-syntax",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "theme": "syntax",
   "description": "A cyberwave theme based off of oceanic next and the featured theme on the homepage for Atom IDE",
   "repository": {
