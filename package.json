@@ -19,7 +19,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "bugs": {
-    "url": "git://github.com/NahomieG/cyberwave-syntax/issues"
+    "url": "https://github.com/NahomieG/cyberwave-syntax/issues"
   },
   "homepage": "https://github.com/NahomieG/cyberwave-syntax#readme"
 }
